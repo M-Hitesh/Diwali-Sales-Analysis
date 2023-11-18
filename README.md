@@ -76,5 +76,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Explore the Diwali Sales Dashboard and unlock valuable insights into the sales performance of products during the festival season in Indian states!
-
