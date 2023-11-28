@@ -7,9 +7,7 @@ Welcome to the Diwali Sales Dashboard project! This interactive dashboard provid
 1. [Overview](#overview)
 2. [Data](#data)
 3. [Dashboard Features](#dashboard-features)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+
 
 ## Overview
 
@@ -42,37 +40,7 @@ The dataset is provided in a structured format, enabling seamless integration wi
 
 ![image](https://github.com/M-Hitesh/Diwali-Sales-Analysis/assets/71482187/0e39119b-333f-40a4-b4e2-d2a6401ec1e1)
 
-## Usage
+## Conclusion
 
-To run the Diwali Sales Dashboard locally, follow these steps:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/diwali-sales-dashboard.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd diwali-sales-dashboard
-    ```
-
-3. Open the `index.html` file in your web browser.
-
-## Contributing
-
-Contributions to enhance or expand the Diwali Sales Dashboard are welcome! To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m 'Description of changes'`.
-4. Push to your branch: `git push origin feature-name`.
-5. Open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
+The data is cleaned,stored and insights been drawn using excel tools and analysis which gives us a brief overview about the sales,trends, and things to be take care for next season.
+By this dashboard one can easily check about the performance and particulate his needs according to its own will.
